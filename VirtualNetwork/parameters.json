@@ -6,10 +6,10 @@
             "value": "centralus"
         },
         "networkInterfaceName": {
-            "value": "testvm192"
+            "value": "testvm172"
         },
         "networkSecurityGroupName": {
-            "value": "TestVM1-nsg"
+            "value": "TestVM2-nsg"
         },
         "networkSecurityGroupRules": {
             "value": [
@@ -35,7 +35,7 @@
             "value": "/subscriptions/45890418-cf51-48bd-97fc-da881ea4ab9a/resourceGroups/ARM-Deployment/providers/Microsoft.Network/virtualNetworks/ARM-Deployment-vnet"
         },
         "virtualMachineName": {
-            "value": "TestVM1"
+            "value": "TestVM2"
         },
         "virtualMachineRG": {
             "value": "ARM-Deployment"
